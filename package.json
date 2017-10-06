@@ -1,0 +1,29 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "CLI that builds, stores, and displays flash cards",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeroh0/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "flashcard",
+    "database",
+    "javascript",
+    "cloze"
+  ],
+  "author": "Tyler Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeroh0/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Zeeroh0/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
