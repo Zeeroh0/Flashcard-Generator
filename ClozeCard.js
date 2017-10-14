@@ -3,11 +3,14 @@ var clozeCard = function(text, cloze) {
 	this.fullText = text;
 	this.cloze = cloze;
 	this.partial = text.replace(cloze, '...');
+	this.itWorked = true;
 
 	this.wrongCloze = function () {
-		console.log("\nYour choice of what to withold (your cloze deletion) isn't actually in your text, ya goof!"+
-			"\n-----Try again.-----\n");
-	};
+		if (text.indexOf(cloze) === -1) {
+			this.itWorked = false;	
+		}
+	};	
+
 };
 
 

@@ -1,0 +1,17 @@
+[
+  {
+    "fullText": "The Indiana Jones ride has a secret message that can be decoded in the queue!",
+    "cloze": "Indiana Jones",
+    "partial": "The...ride has a secret message that can be decoded in the queue!"
+  },
+  {
+    "fullText": "Hidden Mickeys are everywhere, but one can spot a hidden Donald Duck if one checks the wallpaper by the player piano in Mickey’s House (Toontown).",
+    "cloze": "Donald Duck",
+    "partial": "Hidden Mickeys are everywhere, but one can spot a hidden... if one checks the wallpaper by the player piano in Mickey’s House (Toontown)."
+  },
+  {
+    "fullText": "Opening in 1977, Space Mountain was the first single attraction to cost more than the original park — $20 million, compared to the $17 million required to build Disneyland.",
+    "cloze": "Space Mountain",
+    "partial": "Opening in 1977,...was the first single attraction to cost more than the original park — $20 million, compared to the $17 million required to build Disneyland."
+  }
+]
